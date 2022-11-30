@@ -1,6 +1,6 @@
 # Flutter UI screens for Apartment Booking App IOS
 
-## [Video Of The Screen Recording](https://drive.google.com/file/d/1SrgKE7U1Lp_TFIkLXXOQmrTLv1If2ncU/view?usp=share_link)
+## [Video Of The Screen Recording](https://drive.google.com/file/d/1vhIPjfUZKWOe1x3UL1VZRKkdLblMzftt/view?usp=sharing)
 
 ## Pre-requisite
 
@@ -59,4 +59,10 @@ that Creates a widget that can be dragged and scrolled in a single gesture.
 2. [Robby Rahmana](https://www.youtube.com/@RobbyRahmana)
 
 ScreenShots.
+
+![Simulator Screen Shot - iPhone 13 - 2022-11-30 at 18 00 34](https://user-images.githubusercontent.com/98651593/204832792-22a92985-a183-40de-a83d-487f60f3e078.png)
+![Simulator Screen Shot - iPhone 13 - 2022-11-30 at 18 00 42](https://user-images.githubusercontent.com/98651593/204832832-7c0e7f85-bb55-449e-a38e-a1e9567aabe5.png)
+![Simulator Screen Shot - iPhone 13 - 2022-11-30 at 18 03 12](https://user-images.githubusercontent.com/98651593/204832878-daaa173c-0151-4d42-83ef-dce33333239c.png)
+![Simulator Screen Shot - iPhone 13 - 2022-11-30 at 18 03 23](https://user-images.githubusercontent.com/98651593/204832896-ce1df3f7-a479-47df-9d17-41ad26c36f9c.png)
+
 
